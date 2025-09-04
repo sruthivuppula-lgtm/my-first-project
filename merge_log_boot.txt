@@ -1,0 +1,15 @@
+[2025-09-02 08:59:59.101] [KERNEL] INFO  Bootloader: Starting boot sequence
+[2025-09-02 08:59:59.784] [KERNEL] INFO  Init: Mounting file systems
+[2025-09-02 09:00:01.212] [SYS] INFO  SystemServer: Starting Android system services
+[2025-09-02 09:00:02.443] [HAL] INFO  AudioHAL: Initializing audio stack
+[2025-09-02 09:00:03.006] [HAL] INFO  CameraHAL: Camera service ready
+[2025-09-02 09:00:04.127] [BT] INFO  BluetoothAdapter: Starting Bluetooth service
+[2025-09-02 09:00:04.913] [BT] INFO  BluetoothAdapter: State changed OFF -> ON
+[2025-09-02 09:00:06.205] [WIFI] INFO  WiFiManager: Wi-Fi service started
+[2025-09-02 09:00:07.882] [WIFI] DEBUG DHCPClient: Obtained IP address 192.168.1.101
+[2025-09-02 09:00:08.415] [LOCATION] DEBUG GNSSManager: GNSS service initialized
+[2025-09-02 09:00:09.230] [APP] INFO  Launcher: Home screen displayed
+[2025-09-02 09:00:09.878] [AUDIO] INFO  AudioManager: Default route set to SPEAKER
+[2025-09-02 09:00:11.441] [BT] INFO  Adapter: Discoverable mode enabled
+[2025-09-02 09:00:12.339] [SYS] INFO  KPI: Boot completed in 13.2 seconds
+
