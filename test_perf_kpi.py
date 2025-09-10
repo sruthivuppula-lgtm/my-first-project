@@ -30,6 +30,7 @@ def extract_kpi_from_log(log_file):
 def test_boot_kpi(log_file):
     kpi = extract_kpi_from_log(log_file)
     print(f"\nBoot KPI: {kpi:.2f} seconds")
+    print("just added a comment")
 
     # Example requirement: boot must complete in < 20 seconds
     assert kpi < 20, f"Boot KPI too high! Got {kpi:.2f}s"
