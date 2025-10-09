@@ -1,4 +1,4 @@
-[2025-09-02 08:59:59.101] [KERNEL] INFO  Bootloader: Starting boot sequence
+[2025-09-02 08:59:59.101] [KERNEL] INFO  Bootloader: Starting boot sequence 
 [2025-09-02 08:59:59.784] [KERNEL] INFO  Init: Mounting file systems
 [2025-09-02 09:00:01.212] [SYS] INFO  SystemServer: Starting Android system services
 [2025-09-02 09:00:02.443] [HAL] INFO  AudioHAL: Initializing audio stack
